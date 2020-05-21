@@ -8,7 +8,7 @@ Here we will learn how to
 
 Set own  navigation flow
 
-See step by step in <a href="https://youtu.be/YwZVkKAO9lA">YouTube Video</a>
+See step by step in <a href="https://youtu.be/b7WE7hr0QMo">YouTube Video</a>
 
 Screenshots:
 
